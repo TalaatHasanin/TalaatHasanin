@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talaat Hasanin</h1>
 
-## I am BI Developer. Also I am  data engineering intern @ Intern'spedia and ITI graduate 
+## I am BI Developer | Data Analyst | Data Engineer. Also I am  data engineering intern @ Intern'spedia and ITI graduate 
 
 ## 🔗 Links
 [![Power BI portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/profile_projects/talaat-mohamed)
