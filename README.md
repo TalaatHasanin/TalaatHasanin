@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talaathasanin&show_icons=true&locale=en" alt="talaathasanin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefhosni&" alt="talaathasanin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talaathasanin&" alt="talaathasanin" /></p>
