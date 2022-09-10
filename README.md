@@ -3,7 +3,7 @@
 ## I am BI Developer | Data Analyst | Data Engineer. Also I am  data engineering intern @ Intern'spedia and ITI graduate 
 
 ## 🔗 Links
-[![My-Portfolio](https://github.com/TalaatHasanin/My-Portofolio)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/TalaatHasanin/My-Portofolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talaat-hasanin/)
 
 👩‍💻 I'm currently working on ETL system using Snowflake & AWS
