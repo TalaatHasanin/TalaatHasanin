@@ -4,7 +4,7 @@
 I am a Computer Engineering Student with an interest in Analytics, Data & Software Engineering. I would love to connect 🙂
 
 * 🌱  I'm learning Data Engineering 
-* 🖥️  Check out some of my projects ~ [Fast_EDA](https://github.com/TalaatHasanin/Fast_EDA) !!
+* 🖥️  Check out some of my projects ~ [Hashnode-Py](https://github.com/TalaatHasanin/hashnode_py) !!
 
 
 ### Tech
