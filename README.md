@@ -18,12 +18,6 @@ I am a Computer Engineering Student with an interest in Analytics, Data & Softwa
 
 
 
-### GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abz-Aaron&show_icons=true&theme=tokyonight" width="400" height="150"/>
-</a>
-
 ### Let's Connect
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talaat-hasanin/)
