@@ -5,7 +5,7 @@ I'm currently working on [PyNoco](https://github.com/TalaatHasanin/nocodb-python
 <br>
 I'm currently learning Data Engineering & Big Data
 <br>
-I like contributing to open source projects
+I love contributing to open source projects
 
 
 ## 🌐 Socials:
