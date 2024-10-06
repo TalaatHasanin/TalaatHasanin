@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=TalaatHasanin&icon=5&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 I'm currently working on [PyNoco](https://github.com/TalaatHasanin/nocodb-python-client) - [Mage](https://github.com/mage-ai/mage-ai)
 <br>
